@@ -1,9 +1,9 @@
 <?php 
 
-$server = 'mysql49.unoeuro.com';
-$username = 'natstorm_com';
-$password = 'stormfink18';
-$database = 'natstorm_com_db';
+$server = '
+$username = '
+$password = '
+$database = '
 
 try{
     $conn = new PDO("mysql:host=$server;dbname=$database;", $username, $password);
